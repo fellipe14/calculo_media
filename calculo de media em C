@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main(){
+    int n, i;
+    float num[100], som=0.0, average;
+    
+    printf("entre com numeros de elementos: ");
+    scanf("%d", &n);
+    
+    for (i=0;i<n; i++){
+        printf("inclua um numero -> ")
+        scanf("%f", &num[i])
+    }
+}
